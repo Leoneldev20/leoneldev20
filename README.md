@@ -2,7 +2,7 @@ Soy Desarrollador Front End especializado en la construcción de interfaces mode
 
 Lenguajes & Tecnologías
 
-• HTML5: Estructura semántica, accesibilidad, SEO técnico.
+• HTML5: Estructura semántica, accesibilidad.
 
 • CSS3: Responsive Design, Flexbox, Grid, animaciones.
 
