@@ -1,16 +1,25 @@
-## Hi there 👋
+Soy Desarrollador Front End especializado en la construcción de interfaces modernas, escalables y optimizadas para entornos web. Mi enfoque se basa en la implementación de código limpio, accesible y mantenible, apoyado por buenas prácticas y herramientas profesionales de desarrollo.
 
-<!--
-**Leoneldev20/leoneldev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lenguajes & Tecnologías
 
-Here are some ideas to get you started:
+• HTML5: Estructura semántica, accesibilidad, SEO técnico.
+• CSS3: Responsive Design, Flexbox, Grid, animaciones.
+• SASS: Modularización, arquitectura escalable, variables, mixins.
+• JavaScript ES6+: Manipulación del DOM, eventos, lógica de interfaz, componentes interactivos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Automatización & Build Tools
+
+• Gulp.js:
+   -Compilación de SASS
+   -Autoprefixer
+   -Minificación de CSS y JS
+   -Optimización de imágenes
+   -Live Reload 
+   -Estructura optimizada para entornos productivos
+
+Buenas Prácticas
+
+• Código modular y mantenible
+• Optimización de performance
+• Diseño mobile-first
+• Control de versiones con Git
