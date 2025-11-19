@@ -1,28 +1,28 @@
-Soy Desarrollador Front End especializado en la construcción de interfaces modernas, escalables y optimizadas para entornos web. Mi enfoque se basa en la implementación de código limpio, accesible y mantenible, apoyado por buenas prácticas y herramientas profesionales de desarrollo.
+Soy Desarrollador Front End especializado en la creación de interfaces modernas, escalables y optimizadas para entornos web. En cada proyecto priorizo la implementación de código limpio, accesible y mantenible, respaldado por buenas prácticas y herramientas profesionales que garantizan calidad y eficiencia.
 
 Lenguajes & Tecnologías
 
-• HTML5: Estructura semántica, accesibilidad.
+• HTML5: Estructura semántica y accesibilidad.
 
-• CSS3: Responsive Design, Flexbox, Grid, animaciones.
+• CSS3: Responsive Design, Flexbox, Grid y animaciones.
 
-• SASS: Modularización, arquitectura escalable, variables, mixins.
+• SASS (SCSS): Modularización, arquitectura escalable, variables y mixins.
 
-• JavaScript ES6+: Manipulación del DOM, eventos, lógica de interfaz, componentes interactivos.
+• JavaScript ES6+: Manipulación del DOM, eventos, lógica de interfaz y componentes interactivos.
 
 Automatización & Build Tools
 
 • Gulp.js:
 
-   -Compilación de SASS
-   
-   -Minificación de CSS y JS
-   
-   -Optimización de imágenes
-   
-   -Live Reload 
-   
-   -Estructura optimizada para entornos productivos
+- Compilación de SASS
+
+- Minificación de CSS y JS
+
+- Optimización de imágenes
+
+- Live Reload 
+
+- Estructura optimizada para entornos productivos
 
 Buenas Prácticas
 
@@ -30,6 +30,6 @@ Buenas Prácticas
 
 • Optimización de performance
 
-• Diseño mobile-first
+• Diseño mobile-first y responsive
 
 • Control de versiones con Git
