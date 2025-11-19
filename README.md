@@ -16,8 +16,6 @@ Automatización & Build Tools
 
    -Compilación de SASS
    
-   -Autoprefixer
-   
    -Minificación de CSS y JS
    
    -Optimización de imágenes
