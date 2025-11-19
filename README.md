@@ -1,6 +1,8 @@
-Soy Desarrollador Front End especializado en la creación de interfaces modernas, escalables y optimizadas para entornos web. En cada proyecto priorizo la implementación de código limpio, accesible y mantenible, respaldado por buenas prácticas y herramientas profesionales que garantizan calidad y eficiencia.
+## Sobre mi
 
-Lenguajes & Tecnologías
+Soy Desarrollador Front End especializado en la creación de interfaces modernas, escalables y optimizadas para entornos web. En cada proyecto priorizo la implementación de código limpio, accesible y mantenible, respaldado por buenas prácticas y herramientas profesionales que garantizan calidad y eficiencia. Me considero una persona de aprendizaje rápido y con gran interés en seguir mejorando mis habilidades a través de nuevos desafíos.
+
+## Lenguajes & Tecnologías
 
 • HTML5: Estructura semántica y accesibilidad.
 
@@ -10,7 +12,7 @@ Lenguajes & Tecnologías
 
 • JavaScript ES6+: Manipulación del DOM, eventos, lógica de interfaz y componentes interactivos.
 
-Automatización & Build Tools
+## Automatización & Build Tools
 
 • Gulp.js:
 
@@ -24,7 +26,7 @@ Automatización & Build Tools
 
 - Estructura optimizada para entornos productivos
 
-Buenas Prácticas
+## Buenas Prácticas
 
 • Código modular y mantenible
 
